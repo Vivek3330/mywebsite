@@ -1,10 +1,17 @@
 # Medical Appointment Booking System
+
 A full-stack Web Application for booking doctor appointments.Build with **Node.js+Express.js" for the backend,**Postgresql** for the database and simple **HTML/CSS/JS** for the front-end.
+
 # Features
+
   📌 Book medical appointments with doctors
+  
   🧑‍⚕️ Browse specialties (Cardiology, Ophthalmology, Neurology, Orthopedics, Dentistry)
+  
   📂 Frontend served via Express.
+  
   🗄️ PostgreSQL database integration.
+  
 
 
 📂 Project Structure
