@@ -10,8 +10,13 @@ A full-stack Web Application for booking doctor appointments.Build with **Node.j
 📂 Project Structure
 
 ├── public/ # Static frontend files (index.html, style.css, script.js)
+
 │ ├── index.html # Main frontend (appointment system UI)
+
 │ ├── style.css # Styles
+
 │ └── script.js # Frontend logic
+
 ├── server.js # Backend server (Express + PostgreSQL)
+
 ├── package.json # Dependencies and scripts
