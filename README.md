@@ -27,3 +27,11 @@ A full-stack Web Application for booking doctor appointments.Build with **Node.j
 ├── server.js # Backend server (Express + PostgreSQL)
 
 ├── package.json # Dependencies and scripts
+
+Installation and setup
+
+Install Setup
+
+npm install
+
+Setup Database
